@@ -6,4 +6,6 @@
 
     <string name="action_settings">Настройки</string>
     <string name="imports">Импорт</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="android_studio_android_com">android.studio@android.com</string>
 </resources>
