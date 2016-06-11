@@ -18,7 +18,7 @@ public class TabsPagerFragmentAdapter extends FragmentPagerAdapter{
 
         tabs = new String[]{
                 "Tab 1",
-                "Tab 2",
+                "Напоминание",
                 "Tab 3"
         };
 
