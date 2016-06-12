@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">Об устройстве</string>
 
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
 
     <string name="action_settings">Настройки</string>
     <string name="imports">Напоминание</string>
     <string name="android_studio">Android Studio</string>
-    <string name="android_studio_android_com">android.studio@android.com</string>
+    <string name="android_studio_android_com">aleks120591@gmail.com</string>
 </resources>
