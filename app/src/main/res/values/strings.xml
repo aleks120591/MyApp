@@ -8,4 +8,9 @@
     <string name="imports">Напоминание</string>
     <string name="android_studio">Android Studio</string>
     <string name="android_studio_android_com">aleks120591@gmail.com</string>
+    
+    <string name="tab_item_history">History</string>
+    <string name="tab_item_ideas">Ideas</string>
+    <string name="tab_item_todo">TODO</string>
+    <string name="tab_item_birthdays">Birthdays</string>
 </resources>
