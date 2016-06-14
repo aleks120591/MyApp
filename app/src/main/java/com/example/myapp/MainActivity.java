@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        setTheme(R.style.AppDefault);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
@@ -38,6 +39,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
     private void initToolBar(){
         toolbar = (Toolbar) findViewById(R.id.toolbar);
+        //toolbar.setTitleTextColor(getResources().getColor(R.color.colorText));
         setSupportActionBar(toolbar);
 
         fab = (FloatingActionButton) findViewById(R.id.fab);
