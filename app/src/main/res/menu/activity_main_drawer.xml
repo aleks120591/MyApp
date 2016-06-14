@@ -3,7 +3,7 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/reminder"
+            android:id="@+id/actionNotificationItem"
             android:icon="@drawable/message_text"
             android:title="@string/imports" />
         <item
